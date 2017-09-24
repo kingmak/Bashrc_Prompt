@@ -6,6 +6,7 @@ a terminal music player is needed:
 add a repo: sudo add-apt-repository ppa:mc3man/mpv-tests
 get the player: sudo apt update && sudo apt install mpv
 to remove player: sudo apt remove mpv && sudo apt autoremove
+man page: https://manpages.debian.org/jessie/mps-youtube/mpsyt.1.en.gz
 ##############################################################################################################################
 
 ##############################################################################################################################
